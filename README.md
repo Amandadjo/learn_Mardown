@@ -39,3 +39,8 @@ git commit - m "Nom du fichier"
 Pour aller sur on site : [nom du site](www.adressedusite.fr)  
 Lien vers un autre fichier [Vers test.md](test.md)
 
+# Ajouter une image
+
+![fashion women for vogue magazine](https://media.vogue.co.uk/photos/64f9d2038249c1223512418f/2:3/w_1920,c_limit/GettyImages-1611548568.jpg)
+
+
