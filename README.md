@@ -71,7 +71,12 @@ On met un numéro devant chaque élément de la liste
 * Element 1  
     * Element 1.A  
         * Element 1.A.1
-        * Element 1.A.2
+        * Element 1.A.2  
+
+## To Do  
+* [] chips
+* [x] jus
+* [] saucisson
 
 
 
