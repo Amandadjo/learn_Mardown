@@ -23,3 +23,13 @@ J'adore *Git et Github*
 
 > Nous avons une citation  
 Nous avons imbriqué `une citation` ici
+
+# Code dans MarkDown
+
+Pour faire un commit   
+
+```  
+git status     # Vérifier le statut des fichiers  
+git add .    # Ajouter tous les fichiers modifiés au stage (index)  
+git commit - m "Nom du fichier"  
+```  
