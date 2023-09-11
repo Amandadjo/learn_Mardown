@@ -18,3 +18,8 @@ J'adore *Git et Github*
 ~~texte barré~~  
 <sub>Mon texte est plus petit</sub>  
 <sup>Mon texte est plus grand</sup>  
+
+# Citations  
+
+> Nous avons une citation  
+Nous avons imbriqué `une citation` ici
