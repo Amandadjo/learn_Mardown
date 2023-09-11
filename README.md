@@ -51,6 +51,23 @@ Pour trouver la liste des emojis disponible avec github:
 
 C'est duper fun Git & Github :rofl:  
 
+# Listes  
+
+## Liste simple (non ordonée)  
+on peut mettre soit un - soit une * soit ou un + avant  
+
+* A
+* B
+* C
+
+## Liste ordonnés  
+On met un numéro devant chaque élément de la liste  
+1. pain
+2. chocolat
+3. jus d'orange
+
+
+
 
 
 
