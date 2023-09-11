@@ -66,6 +66,14 @@ On met un numéro devant chaque élément de la liste
 2. chocolat
 3. jus d'orange
 
+## Liste imbriquée
+
+* Element 1  
+    * Element 1.A  
+        * Element 1.A.1
+        * Element 1.A.2
+
+
 
 
 
