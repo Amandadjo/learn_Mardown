@@ -36,11 +36,21 @@ git commit - m "Nom du fichier"
 
 # Lien URL  
 
-Pour aller sur on site : [nom du site](www.adressedusite.fr)  
-Lien vers un autre fichier [Vers test.md](test.md)
+Pour aller sur on site : [nom du site](www.adressedusite.fr).
+Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image
 
 ![fashion women for vogue magazine](https://media.vogue.co.uk/photos/64f9d2038249c1223512418f/2:3/w_1920,c_limit/GettyImages-1611548568.jpg)
+
+# Ajouter des emojis
+
+Pour trouver la liste des emojis disponible avec github:  
+
+[Liste des emojis](https://gist.github.com/rxaviers/7360908)  
+
+C'est duper fun Git & Github :rofl:  
+
+
 
 
